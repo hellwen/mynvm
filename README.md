@@ -20,3 +20,12 @@ nvm use v7.10
 npm config set registry https://registry.npm.taobao.org
 npm config get registry
 ```
+# begin...
+
+```
+npm install vue-cli
+vue init webpack myfirstvueproject
+cd myfirstvueproject
+npm install
+npm run dev
+```
