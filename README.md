@@ -13,3 +13,10 @@ nvm install v7.10
 nvm ls
 nvm use v7.10
 ```
+
+# npm change registry
+
+```
+npm config set registry https://registry.npm.taobao.org
+npm config get registry
+```
